@@ -3,7 +3,7 @@
 # ====== 配置区域 ======
 # 请自行替换为你自己的API_KEY和HOST地址
 API_KEY="YOUR_API_KEY_HERE"                  # 你的API密钥，切勿泄露
-HOST="http://127.0.0.1:2349"                 # 面板服务器地址（本例是本机地址）
+HOST="http://127.0.0.1:26888​"                 # 面板服务器地址+端口（本例是本机地址）
 CHECK_ENDPOINT="/api/v1/dashboard/base/os"   # 用于Token鉴权检测的接口
 UPLOAD_ENDPOINT="/websites/ssl/upload"       # SSL上传接口
 
